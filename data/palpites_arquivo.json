@@ -1,0 +1,42 @@
+[
+  {
+    "id": "6a3819cdbe2ba2fe5a3d8f9b4b459965",
+    "desporto": "soccer_epl",
+    "jogo": "Liverpool vs Arsenal",
+    "inicio": "2026-11-01T16:30:00Z",
+    "casa_equipa": "Liverpool",
+    "fora_equipa": "Arsenal",
+    "seleccao": "Draw",
+    "odd": 3.68,
+    "casa_apostas": "1xBet",
+    "prob_mercado": 0.2953,
+    "vantagem": 0.0236,
+    "data_registo": "2026-10-18",
+    "estado": "pendente",
+    "vencedor": null,
+    "stake": 2.0,
+    "registado_em": "2026-10-18T02:48+00:00",
+    "fechado_em": null,
+    "motivo_arquivo": "Jogo fora de 18/10: substitu?do pelo pedido de propostas de hoje"
+  },
+  {
+    "id": "7df53f9af95d5a4e13b504882078dab8",
+    "desporto": "soccer_epl",
+    "jogo": "Manchester City vs Brighton and Hove Albion",
+    "inicio": "2026-10-31T15:00:00Z",
+    "casa_equipa": "Manchester City",
+    "fora_equipa": "Brighton and Hove Albion",
+    "seleccao": "Brighton and Hove Albion",
+    "odd": 5.6,
+    "casa_apostas": "1xBet",
+    "prob_mercado": 0.2009,
+    "vantagem": 0.0223,
+    "data_registo": "2026-10-18",
+    "estado": "pendente",
+    "vencedor": null,
+    "stake": 2.0,
+    "registado_em": "2026-10-18T02:48+00:00",
+    "fechado_em": null,
+    "motivo_arquivo": "Jogo fora de 18/10: substitu?do pelo pedido de propostas de hoje"
+  }
+]
